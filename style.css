@@ -1,0 +1,31 @@
+.header-bg{
+    background-color: #264653;
+}
+.similier-clr{
+    background-color:  #E76F51;
+}
+.similier-clr2{
+    color: #E76F51;
+}
+.gray-scale{
+    filter: grayscale(100%);
+}
+.card-img{
+    height: 160px;
+    width: 160px;
+}
+.card-img3{
+    height: 160px;
+    width: 160px;
+    border-radius: 50%
+}
+.bike-bg-info{
+    background-color: #fceae8;
+}
+.bike-bye-now-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
